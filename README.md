@@ -1,11 +1,11 @@
-# IP02-Compulsory-Phase-3-Code-Challenge-pt2
+# IP02-Compulsory-Phase-3-Code-Challenge-pt3
 # Restaurant Reviews Database
 This Python script sets up a simple SQLite database for storing restaurant reviews. It defines three tables: customers, restaurants, and reviews. The Customer, Restaurant, and Review classes allow users to interact with the database by adding customers, restaurants, and reviews.
 
 ## Instructions
-1. Git Clone git@github.com:dmbeastz/IP02-Compulsory-Phase-3-Code-Challenge-pt2.git
+1. Git Clone git@github.com:dmbeastz/IP02-Compulsory-Phase-3-Code-Challenge-pt3.git
 
-2. cd IP02-Compulsory-Phase-3-Code-Challenge-pt2
+2. cd IP02-Compulsory-Phase-3-Code-Challenge-pt3
 
 3. Run the main.py 
 
